@@ -20,5 +20,5 @@
 2. Make a build directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./pid`
-5. Run it:  ./term2_sim.X86_64`  (in another terminal)
+5. Run it: `./term2_sim.X86_64`  (in another terminal)
 6. select pid controller and autonomus mode.
