@@ -17,14 +17,12 @@ In this project, is necessary to build a PID controller that will handle the inp
      
 * uWebSockets
   Run
-     sudo chmod u+x install-ubuntu.sh
-     ./install-ubuntu.sh
+     sudo chmod u+x install-ubuntu.sh && ./install-ubuntu.sh
 * Simulator. 
   Download it from (https://github.com/udacity/self-driving-car-sim/releases/tag/v1.45).
   unzip
   Run
-      sudo chmod +x term2_sim.x86_64
-      ./term2_sim.X86_64
+      sudo chmod +x term2_sim.x86_64 && ./term2_sim.X86_64
 
 ## Basic Build Instructions
 
